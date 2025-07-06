@@ -1,2 +1,2 @@
 # Lab_1
-Python Lab report
+Python Lab report on Data Structures
